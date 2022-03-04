@@ -11664,6 +11664,11 @@ figure.highlight .section {
   }
 }
 body {
+  background: url("https://story-1305063977.cos.ap-shanghai.myqcloud.com/20210420155336_f31e6.thumb.1000_0_20220304_160367.gif") no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+body {
   counter-reset: card;
 }
 ::selection {
